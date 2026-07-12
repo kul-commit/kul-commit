@@ -25,7 +25,7 @@
 <div align="center">
 
 <!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi,%20I'm%20FULL_NAME&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR_ROLE%20%7C%20Building%20things%20for%20the%20web&descAlignY=58&descSize=18" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi,%20I'm%20KULDEEP YADAV&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK DEVELOPER%20%7C%20Building%20things%20for%20the%20web&descAlignY=58&descSize=18" alt="Header banner" />
 
 <!-- ================= TYPING SVG ================= -->
 <a href="https://git.io/typing-svg">
@@ -35,17 +35,17 @@
 <br/>
 
 <!-- ================= QUICK BADGES ================= -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=8a2be2" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=kul-commit&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/kul-commit?label=Followers&style=for-the-badge&color=8a2be2" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1abc9c?style=for-the-badge" alt="Open to collaborate" />
 
 <br/><br/>
 
 <!-- ================= CTA BUTTONS ================= -->
 <a href="https://PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://LINKEDIN_URL"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2](https://www.linkedin.com/in/kuldeepyadav12/)?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/TWITTER_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kuldeepyadav12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kuldeepyadav12811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/kul_Codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 </div>
 
@@ -61,17 +61,17 @@
 <td width="60%" valign="top">
 
 ```yaml
-name: "FULL_NAME"
-role: "YOUR_ROLE"
-location: "Earth, probably at a keyboard"
+name: "KULDEEP YADAV"
+role: "FULL-STACK DEVELOPER | AI/ML"
+location: "NEW DELHI"
 interests:
-  - Distributed Systems
-  - Developer Tooling
+  - Full-Stack Development
+  - Data Science
   - UI/UX Engineering
   - Open Source
 currently_learning:
-  - Advanced System Design
-  - Cloud-Native Architecture
+  - System Design
+  - DATA SCIENCE
 open_to_collaborate: true
 fun_fact: "I debug faster with music, slower with silence."
 ```
@@ -98,7 +98,6 @@ fun_fact: "I debug faster with music, slower with silence."
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
 </details>
 
@@ -108,9 +107,9 @@ fun_fact: "I debug faster with music, slower with silence."
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> -->
 
 </details>
 
@@ -121,9 +120,9 @@ fun_fact: "I debug faster with music, slower with silence."
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
 
 </details>
 
@@ -161,7 +160,7 @@ fun_fact: "I debug faster with music, slower with silence."
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>AI / ML</b></summary>
 <br>
 
@@ -170,7 +169,7 @@ fun_fact: "I debug faster with music, slower with silence."
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-</details>
+</details> -->
 
 <details>
 <summary><b>Tools</b></summary>
@@ -210,16 +209,16 @@ fun_fact: "I debug faster with music, slower with silence."
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6ee7b7" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kul-commit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6ee7b7" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kul-commit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=6EE7B7" />
+<img src="https://streak-stats.demolab.com?user=USERNAMEkul-coomit&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=6EE7B7" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=6EE7B7&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kul-commit&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=6EE7B7&point=FFFFFF" width="95%"/>
 
 </div>
 
@@ -227,7 +226,7 @@ fun_fact: "I debug faster with music, slower with silence."
 <summary><b>GitHub Trophies</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=kul-commit&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 </details>
 
@@ -237,7 +236,7 @@ fun_fact: "I debug faster with music, slower with silence."
 <div align="center">
 
 <!-- Generated via github.com/Platane/snk GitHub Action; commit the SVG output to your repo and point this img at it -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/kul-commit/kul-commit/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 </details>
