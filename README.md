@@ -355,14 +355,14 @@ Short description of the problem this project solves and who it's for.
 <!-- ACHIEVEMENTS SECTION START -->
 ## Achievements
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="25%" align="center"><b>Open Source</b><br/><sub>Active contributor</sub></td>
 <td width="25%" align="center"><b>Hackathons</b><br/><sub>Participant &amp; builder</sub></td>
 <td width="25%" align="center"><b>100 Days of Code</b><br/><sub>In progress</sub></td>
 <td width="25%" align="center"><b>Certifications</b><br/><sub>Ongoing</sub></td>
 </tr>
-</table>
+</table> -->
 <!-- ACHIEVEMENTS SECTION END -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
