@@ -234,7 +234,7 @@ Short description of the problem this project solves and who it's for.
 
 **Features:** real-time updates · authentication · responsive UI
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -246,7 +246,7 @@ Short description of the problem this project solves and who it's for.
 <p align="center">
 <a href="https://DEMO_URL_1"><img src="https://img.shields.io/badge/Live%20Demo-7c9eff?style=for-the-badge"/></a>
 <a href="https://github.com/kul-commit/REPO_ONE"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</p> -->
 
 </td>
 <td width="50%" valign="top">
