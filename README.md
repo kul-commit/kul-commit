@@ -427,10 +427,10 @@ No coding activity data yet — connect WakaTime to populate this section.
 
 <br/>
 
-<a href="https://leetcode.com/LEETCODE_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<!-- <a href="https://leetcode.com/LEETCODE_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.geeksforgeeks.org/user/GFG_HANDLE"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/HACKERRANK_HANDLE"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/HACKERRANK_HANDLE"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> -->
 
 <br/>
 
