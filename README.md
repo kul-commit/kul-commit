@@ -85,7 +85,7 @@ I can debug for hours but still forget where I left my coffee.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2400&pause=700&color=9CA3AF&center=true&width=320&lines=%23BuildInPublic;%23OpenSource;%23AlwaysLearning;%23100DaysOfCode" width="90%"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2400&pause=700&color=9CA3AF&center=true&width=320&lines=%23BuildInPublic;%23OpenSource;%23AlwaysLearning;%23100DaysOfCode" width="90%"/> -->
 
 </td>
 </tr>
